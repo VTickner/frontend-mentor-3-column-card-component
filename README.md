@@ -20,8 +20,8 @@ The challenge was to build a 3 column preview card component and get the design 
 
 ### Screenshot
 
-![Mobile 3 column preview card screenshot](./images/mobile-3-column-card-screenshot.jpg)
-![Desktop 3 column preview card screenshot](./images/desktop-3-column-card-screenshot.jpg)
+<img src="./images/mobile-3-column-card-screenshot.jpg" height="350px" />
+<img src="./images/desktop-3-column-card-screenshot.jpg" width="500px" />
 
 ### Links
 
